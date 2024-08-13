@@ -1,3 +1,5 @@
-#Insertion Sort
-#Selection Sort
-#Bubble Sort
+Insertion Sort
+
+Selection Sort
+
+Bubble Sort
