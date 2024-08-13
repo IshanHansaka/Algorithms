@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+void selectionSort(int arr[], int n);
+void display (int arr[], int n);
+
 void selectionSort(int arr[], int n) {
     int minIndex, temp;
     for (int i = 0; i < n-1; i++) {
